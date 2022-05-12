@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-###Background
+### Background
 Louise is an up and coming playwright wants to start a Kickstarting campaing so she it helps her to fund her play "Fever", she is expecting a budget of over $10,000 dollars so she is turning to us, Excels power users,
 to help and set her up for success. 
 
