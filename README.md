@@ -16,18 +16,22 @@ help her to gain a greater understanding on how her campaing can be succesful. T
 ## Analysis and Challenges:
 
 ### Analysis of Outcomes Based on Launch Date
-the purpose of this analaysis is to see if seasonality affects the outcome of a campaing. We created a new Column called "year" in ([Kickstarter_Challenge.xlsx](/Kickstarter_Challenge.xlsx) so we could Analyse if the Launch date had any affect on the outcome, then we moved on to filter the data in such a way the outcome results showed beside every month. If we Analayze the data we could get a success rate by dividing the succesful outcomes by the total outcomes for every month, when doing this we can see that May has the highest rate. However, why create more equations when we can analyze the graph below, we could see that there is a spike in May for campaings to succeed, therefore May is the best month to start a campaing.
+The purpose of this analaysis is to see if seasonality affects the outcome of a campaing. We created a new Column called "year" in ([Kickstarter_Challenge.xlsx](/Kickstarter_Challenge.xlsx) so we could Analyse if the Launch date had any affect on the outcome, then we moved on to filter the data in such a way the outcome results showed beside every month. If we Analayze the data we could get a success rate by dividing the succesful outcomes by the total outcomes for every month, when doing this we can see that May has the highest rate. However, why create more equations when we can analyze the graph below, we could see that there is a spike in May for campaings to succeed, therefore May is the best month to start a campaing.
 
 ![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
+The main point from this analysis was to obtain visualization on the outcome percentage based on the funding goals for each campaing. To get a result we had to collect data create ranges of goal amounts and then see the number of outcomes according to each range. We were required to use CountIfs and being able to allocate the right data to the right equations. We creted a line graph that showed the ranges and their outcome percentages in order to have better visualization.
 
+![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
+ 
 ### Challenges and Difficulties Encountered
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+- If we Analayze the data we could get a success rate by dividing the succesful outcomes by the total outcomes for every month, when doing this we can see that May has the highest rate. However, why create more equations when we can analyze the graph below, we could see that there is a spike in May for campaings to succeed, therefore May is the best month to start a campaing. and the worst time to starts a campaing would be December
 
 - What can you conclude about the Outcomes based on Goals?
 
