@@ -24,7 +24,7 @@ The purpose of this analaysis is to see if seasonality affects the outcome of a 
 ### Analysis of Outcomes Based on Goals
 The main point from this analysis was to obtain visualization on the outcome percentage based on the funding goals for each campaing. To get a result we had to collect data create ranges of goal amounts and then see the number of outcomes according to each range. We were required to use CountIfs and being able to allocate the right data to the right equations. We creted a line graph that showed the ranges and their outcome percentages in order to have better visualization.
 
-![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
+![Outcomes_Vs_Goals.png](resources/Outcomes_Vs_Goals.png)
  
 ### Challenges and Difficulties Encountered
 
