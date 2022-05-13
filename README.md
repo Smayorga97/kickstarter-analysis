@@ -28,13 +28,19 @@ The main point from this analysis was to obtain visualization on the outcome per
  
 ### Challenges and Difficulties Encountered
 
+Skill wise, it was difficult for me to use the CountIfs equation to analyze the outcomes based on goals, it was the first time I ever used it in an assigment/work. However, it was was not that complicated after it is practiced a couple times. Github is a new platform for me and it has been difficult to navigate it, wish there was a more simple platform where we could manage our portafolio.
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-- If we Analayze the data we could get a success rate by dividing the succesful outcomes by the total outcomes for every month, when doing this we can see that May has the highest rate. However, why create more equations when we can analyze the graph below, we could see that there is a spike in May for campaings to succeed, therefore May is the best month to start a campaing. and the worst time to starts a campaing would be December
+ If we Analayze the data we could get a success rate by dividing the succesful outcomes by the total outcomes for every month, when doing this we can see that May has the highest rate. However, why create more equations when we can analyze the graph below, we could see that there is a spike in May for campaings to succeed, therefore May is the best month to start a campaing. and the worst time to starts a campaing would be December
 
 - What can you conclude about the Outcomes based on Goals?
+from analyzing the data it can be concluded that kickstarting programs are most likely to be successful when the goals are set low, considering that Louise has a budget of $1000, she should keep it below that not go past that. The ideal range would be 5000 to 9999
 
 - What are some limitations of this dataset?
+- I think it would be Ideal to add genders to this Data set, considering that the genders are really biased when it comes to theatre and play. there is data that I do know find Ideal for the type of Analisys that we were making and tend to provent the analyst to have less vison of the actual data needed and therefore not time efficient for the Analisys.
 
 - What are some other possible tables and/or graphs that we could create?
+- I think a better Analysis could be done by filtering countries and making them aplicable to the case, in this case it would be ideal to know where Louise is from and clreate double Bar graphs that show sucessful vs failed.
+- 
