@@ -7,7 +7,7 @@ Louise is an up and coming playwright wants to start a Kickstarting campaing so 
 to help and set her up for success. 
 
 ### Purpose 
-The purpose of this challenge is to use Excel to Organize, sort, and analyze crowdfunding data to determine wheter there are specific factors that make a project's campaign successful. Analyzing current side data, We will
+The purpose of this challenge is to use Excel to Organize, sort, and analyze crowdfunding data to determine wheater there are specific factors that make a project's campaign successful. Analyzing current side data, We will
 help her to gain a greater understanding on how her campaing can be succesful. There are 2 Analyses that are required to help her:
 	
 	-Theather outcomes based on launch date
