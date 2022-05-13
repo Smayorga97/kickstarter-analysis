@@ -43,4 +43,3 @@ from analyzing the data it can be concluded that kickstarting programs are most 
 
 - What are some other possible tables and/or graphs that we could create?
 - I think a better Analysis could be done by filtering countries and making them aplicable to the case, in this case it would be ideal to know where Louise is from and clreate double Bar graphs that show sucessful vs failed.
-- 
